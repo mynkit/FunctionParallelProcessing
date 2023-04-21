@@ -18,11 +18,11 @@
     "default": {
         "joblib": {
             "hashes": [
-                "sha256:0630eea4f5664c463f23fbf5dcfc54a2bc6168902719fa8e19daf033022786c8",
-                "sha256:bdb4fd9b72915ffb49fde2229ce482dd7ae79d842ed8c2b4c932441495af1403"
+                "sha256:301f0375f49586a7effee3f6348c419d5765fca1c750186b20690a0d90b82900",
+                "sha256:f9d6c3cdf2a7778e9058e10e9dba028e47771a1a355e5768f46704bf05342eba"
             ],
             "index": "pypi",
-            "version": "==0.14.1"
+            "version": "==1.1.1"
         }
     },
     "develop": {
@@ -35,10 +35,11 @@
         },
         "pycodestyle": {
             "hashes": [
-                "sha256:95a2219d12372f05704562a14ec30bc76b05a5b297b21a5dfe3f6fac3491ae56",
-                "sha256:e40a936c9a450ad81df37f549d676d127b1b66000a6c500caa2b085bc0ca976c"
+                "sha256:347187bdb476329d98f695c213d7295a846d1152ff4fe9bacb8a9590b8ee7053",
+                "sha256:8a4eaf0d0495c7395bdab3589ac2db602797d76207242c17d470186815706610"
             ],
-            "version": "==2.5.0"
+            "markers": "python_version >= '3.6'",
+            "version": "==2.10.0"
         }
     }
 }
